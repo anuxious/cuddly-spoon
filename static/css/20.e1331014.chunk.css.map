@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/home@me/home@me.scss"],"names":[],"mappings":"AACI,aACI,UAAW,CACX,WAAY,CACZ,qBAAsB","file":"20.e1331014.chunk.css","sourcesContent":[".home{\r\n    &__image{\r\n        width: 100%;\r\n        height: 100%;\r\n        background-size: cover;\r\n    }\r\n}\r\n"]}
