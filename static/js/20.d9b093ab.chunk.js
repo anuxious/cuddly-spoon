@@ -1,2 +1,0 @@
-(this["webpackJsonpdiscord-clone"]=this["webpackJsonpdiscord-clone"]||[]).push([[20],{244:function(c,s,e){},330:function(c,s,e){"use strict";e.r(s);e(0),e(244);var n=e(3);s.default=function(){return Object(n.jsx)(n.Fragment,{children:Object(n.jsx)("div",{className:"home",children:Object(n.jsx)("img",{className:"home__image",src:"/discord-clone/discord-background.jpg",alt:"Discord background"})})})}}}]);
-//# sourceMappingURL=20.d9b093ab.chunk.js.map
