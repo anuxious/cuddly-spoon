@@ -5,7 +5,7 @@
     "static/css/1.4acadebe.chunk.css": "/discord-clone/static/css/1.4acadebe.chunk.css",
     "static/js/1.c6b04cb0.chunk.js": "/discord-clone/static/js/1.c6b04cb0.chunk.js",
     "static/js/1.c6b04cb0.chunk.js.map": "/discord-clone/static/js/1.c6b04cb0.chunk.js.map",
-    "main.css": "/discord-clone/static/css/main.14af1cbd.chunk.css",
+    "main.css": "/discord-clone/static/css/main.fa3d86d7.chunk.css",
     "main.js": "/discord-clone/static/js/main.ca6d78b3.chunk.js",
     "main.js.map": "/discord-clone/static/js/main.ca6d78b3.chunk.js.map",
     "reactPlayerDailyMotion.js": "/discord-clone/static/js/reactPlayerDailyMotion.08e95a64.chunk.js",
@@ -60,7 +60,7 @@
     "static/css/19.c589f2c3.chunk.css.map": "/discord-clone/static/css/19.c589f2c3.chunk.css.map",
     "static/css/20.f9b07b4e.chunk.css.map": "/discord-clone/static/css/20.f9b07b4e.chunk.css.map",
     "static/css/21.7b1df479.chunk.css.map": "/discord-clone/static/css/21.7b1df479.chunk.css.map",
-    "static/css/main.14af1cbd.chunk.css.map": "/discord-clone/static/css/main.14af1cbd.chunk.css.map",
+    "static/css/main.fa3d86d7.chunk.css.map": "/discord-clone/static/css/main.fa3d86d7.chunk.css.map",
     "static/js/17.234c874c.chunk.js.LICENSE.txt": "/discord-clone/static/js/17.234c874c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/discord-clone/static/media/whitneysemibold.3eb3b8ff.otf",
     "static/media/friends.5cb8e73d.svg": "/discord-clone/static/media/friends.5cb8e73d.svg"
@@ -68,7 +68,7 @@
   "entrypoints": [
     "static/js/runtime-main.336e6932.js",
     "static/js/17.234c874c.chunk.js",
-    "static/css/main.14af1cbd.chunk.css",
+    "static/css/main.fa3d86d7.chunk.css",
     "static/js/main.ca6d78b3.chunk.js"
   ]
 }
